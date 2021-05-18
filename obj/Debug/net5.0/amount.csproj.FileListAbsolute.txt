@@ -1,0 +1,32 @@
+D:\Documents\Visual Studio Code\amount\bin\Debug\net5.0\amount.exe
+D:\Documents\Visual Studio Code\amount\bin\Debug\net5.0\amount.deps.json
+D:\Documents\Visual Studio Code\amount\bin\Debug\net5.0\amount.runtimeconfig.json
+D:\Documents\Visual Studio Code\amount\bin\Debug\net5.0\amount.runtimeconfig.dev.json
+D:\Documents\Visual Studio Code\amount\bin\Debug\net5.0\amount.dll
+D:\Documents\Visual Studio Code\amount\bin\Debug\net5.0\ref\amount.dll
+D:\Documents\Visual Studio Code\amount\bin\Debug\net5.0\amount.pdb
+D:\Documents\Visual Studio Code\amount\obj\Debug\net5.0\amount.csprojAssemblyReference.cache
+D:\Documents\Visual Studio Code\amount\obj\Debug\net5.0\amount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio Code\amount\obj\Debug\net5.0\amount.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio Code\amount\obj\Debug\net5.0\amount.AssemblyInfo.cs
+D:\Documents\Visual Studio Code\amount\obj\Debug\net5.0\amount.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio Code\amount\obj\Debug\net5.0\amount.dll
+D:\Documents\Visual Studio Code\amount\obj\Debug\net5.0\ref\amount.dll
+D:\Documents\Visual Studio Code\amount\obj\Debug\net5.0\amount.pdb
+D:\Documents\Visual Studio Code\amount\obj\Debug\net5.0\amount.genruntimeconfig.cache
+D:\Projects\amount\obj\Debug\net5.0\amount.csprojAssemblyReference.cache
+D:\Projects\amount\obj\Debug\net5.0\amount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\amount\obj\Debug\net5.0\amount.AssemblyInfoInputs.cache
+D:\Projects\amount\obj\Debug\net5.0\amount.AssemblyInfo.cs
+D:\Projects\amount\obj\Debug\net5.0\amount.csproj.CoreCompileInputs.cache
+D:\Projects\amount\obj\Debug\net5.0\amount.dll
+D:\Projects\amount\obj\Debug\net5.0\ref\amount.dll
+D:\Projects\amount\obj\Debug\net5.0\amount.pdb
+D:\Projects\amount\bin\Debug\net5.0\amount.exe
+D:\Projects\amount\bin\Debug\net5.0\amount.deps.json
+D:\Projects\amount\bin\Debug\net5.0\amount.runtimeconfig.json
+D:\Projects\amount\bin\Debug\net5.0\amount.runtimeconfig.dev.json
+D:\Projects\amount\bin\Debug\net5.0\amount.dll
+D:\Projects\amount\bin\Debug\net5.0\ref\amount.dll
+D:\Projects\amount\bin\Debug\net5.0\amount.pdb
+D:\Projects\amount\obj\Debug\net5.0\amount.genruntimeconfig.cache
